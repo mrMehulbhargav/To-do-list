@@ -1,0 +1,9 @@
+body {
+    background-color: #f8f9fa;
+  }
+  
+  #taskList .completed {
+    text-decoration: line-through;
+    color: gray;
+  }
+  
